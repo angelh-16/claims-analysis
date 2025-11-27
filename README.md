@@ -51,11 +51,11 @@ Module6_claims/clean/example_2/
 7. Run the code by clicking Run all or click theplay button next to each section of a code to run it one by one
 
 ## Summary of key findings
-* 
-* 
-* 
-* 
-* 
+* The data contains 388 unique claims, from September 25, 2023 to May 29, 2024 with an average service lines per claim of 1.34 and an average diagnosis codes per claim of 3.96.
+* The billing provider with the most claims is SB INTERNIST with 152 claims, following is SB SURGICAL ASSOCIATES with 81 claims. The top payer is MEDICARE with 242 claims, following is 46 claims by HEALTHFIRST FFS.
+* The top primary payer is also MEDICARE with total charges of about $131008 and about $541.36 charges per claim.
+* The most frequently ppearing diagnosis codes is J96.01, the ICD-10 code for acute respiratory failure with hypoxia, with 62 counts.
+* INPATIENT  had the most claims submitted compred to other locations of service, with 231 claims. It is about 59.54% compared to DOCTOR'S OFFICE with about 34.02% (132 claims).
 
 ## Required libraries
 **requirements.txt** with necessary Python packages:
